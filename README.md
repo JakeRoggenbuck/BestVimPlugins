@@ -14,7 +14,7 @@ https://github.com/mhartington/oceanic-next
 
 ## cocopon/iceberg.vim
 ![iceberg](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13_1.png)
-https://github.com/iceberg.vim
+https://github.com/cocopon/iceberg.vim
 
 ## drewtempelmeyer/palenight.vim
 ![palenight](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13_2.png)
