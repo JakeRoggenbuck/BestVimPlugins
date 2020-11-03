@@ -1,36 +1,44 @@
 # Themes
 These are some great themes. I only use gruvbox right now but the rest of these themes are great.
+<br><br>
 ## morhetz/gruvbox
 https://github.com/morhetz/gruvbox
 ![gruvbox](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-11.png)
-
+<br><br>
 ## baskerville/bubblegum
 https://github.com/baskerville/bubblegum
 ![bubblegum](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-12.png)
+<br><br>
 
 ## mhartington/oceanic-next
 https://github.com/mhartington/oceanic-next
 ![oceanic-next](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13.png)
+<br><br>
 
 ## cocopon/iceberg.vim
 https://github.com/cocopon/iceberg.vim
 ![iceberg](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13_1.png)
+<br><br>
 
 ## drewtempelmeyer/palenight.vim
 https://github.com/drewtempelmeyer/palenight.vim
 ![palenight](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13_2.png)
+<br><br>
 
 ## roosta/srcery
 https://github.com/roosta/srcery
 ![srcery](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-14.png)
+<br><br>
 
 ## joshdick/onedark.vim
 https://github.com/joshdick/onedark.vim
 ![onedark](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-14_1.png)
+<br><br>
 
 ## ajh17/spacegray.vim
 https://github.com/ajh17/spacegray.vim
 ![spacegray](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-15.png)
+<br><br>
 
 # Appearance
 These make vim look really nice, the goyo is great for taking screenshots and just having a distraction free work time.
@@ -38,10 +46,12 @@ These make vim look really nice, the goyo is great for taking screenshots and ju
 https://github.com/ajh17/spacegray.vim
 ![airline](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/airline.png)
 
+<br><br>
 ## vim-airline/vim-airline-themes
 https://github.com/vim-airline/vim-airline-themes
 ![airline-themes](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_22-05.png)
 
+<br><br>
 ## junegunn/goyo.vim
 https://github.com/junegunn/goyo.vim
 ![goyo](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-44.png)
