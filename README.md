@@ -34,11 +34,15 @@ https://github.com/ajh17/spacegray.vim
 
 # Appearance
 These make vim look really nice, the goyo is great for taking screenshots and just having a distraction free work time.
-### vim-airline/vim-airline
+## vim-airline/vim-airline
 https://github.com/ajh17/spacegray.vim
 ![airline](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/airline.png)
-### vim-airline/vim-airline-themes
-### junegunn/goyo.vim
+
+## vim-airline/vim-airline-themes
+https://github.com/vim-airline/vim-airline-themes
+![airline-themes](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_22-05.png)
+
+## junegunn/goyo.vim
 https://github.com/junegunn/goyo.vim
 ![goyo](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-44.png)
 
