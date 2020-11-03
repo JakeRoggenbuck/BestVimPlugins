@@ -1,13 +1,21 @@
 # Themes
 These are some great themes. I only use gruvbox right now but the rest of these themes are great.
-### morhetz/gruvbox
-### baskerville/bubblegum
-### mhartington/oceanic-next
-### cocopon/iceberg.vim
-### drewtempelmeyer/palenight.vim
-### roosta/srcery
-### joshdick/onedark.vim
-### ajh17/spacegray.vim
+## morhetz/gruvbox
+![gruvbox](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-11.png)
+## baskerville/bubblegum
+![bubblegum](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-12.png)
+## mhartington/oceanic-next
+![oceanic-next](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13.png)
+## cocopon/iceberg.vim
+![iceberg](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13_1.png)
+## drewtempelmeyer/palenight.vim
+![palenight](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13_2.png)
+## roosta/srcery
+![srcery](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-14.png)
+## joshdick/onedark.vim
+![onedark](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-14_1.png)
+## ajh17/spacegray.vim
+![spacegray](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-15.png)
 
 # Appearance
 These make vim look really nice, the goyo is great for taking screenshots and just having a distraction free work time.
