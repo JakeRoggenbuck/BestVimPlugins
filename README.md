@@ -1,42 +1,46 @@
 # Themes
 These are some great themes. I only use gruvbox right now but the rest of these themes are great.
 ## morhetz/gruvbox
-![gruvbox](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-11.png)
 https://github.com/morhetz/gruvbox
+![gruvbox](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-11.png)
 
 ## baskerville/bubblegum
-![bubblegum](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-12.png)
 https://github.com/baskerville/bubblegum
+![bubblegum](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-12.png)
 
 ## mhartington/oceanic-next
-![oceanic-next](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13.png)
 https://github.com/mhartington/oceanic-next
+![oceanic-next](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13.png)
 
 ## cocopon/iceberg.vim
-![iceberg](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13_1.png)
 https://github.com/cocopon/iceberg.vim
+![iceberg](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13_1.png)
 
 ## drewtempelmeyer/palenight.vim
-![palenight](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13_2.png)
 https://github.com/drewtempelmeyer/palenight.vim
+![palenight](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-13_2.png)
 
 ## roosta/srcery
-![srcery](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-14.png)
 https://github.com/roosta/srcery
+![srcery](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-14.png)
 
 ## joshdick/onedark.vim
-![onedark](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-14_1.png)
 https://github.com/joshdick/onedark.vim
+![onedark](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-14_1.png)
 
 ## ajh17/spacegray.vim
-![spacegray](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-15.png)
 https://github.com/ajh17/spacegray.vim
+![spacegray](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-15.png)
 
 # Appearance
 These make vim look really nice, the goyo is great for taking screenshots and just having a distraction free work time.
 ### vim-airline/vim-airline
+https://github.com/ajh17/spacegray.vim
+![airline](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/airline.png)
 ### vim-airline/vim-airline-themes
 ### junegunn/goyo.vim
+https://github.com/junegunn/goyo.vim
+![goyo](https://github.com/JakeRoggenbuck/BestVimPlugins/blob/master/images/2020-11-02_21-44.png)
 
 # Movement
 These are great for making editing speedy
